@@ -1,3 +1,5 @@
+/* Two numbers are input thr' KB into 2 locations C and D. Write a prog. to interchange the contents of C and D. */
+
 #include<stdio.h>
 #include<conio.h>
 
